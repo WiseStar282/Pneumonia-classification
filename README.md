@@ -27,6 +27,6 @@ building and model evaluation.
 
 </center>
 
-Full code of this project at here [full code](hhttps://www.kaggle.com/datasets/sriramthakur/classification-of-covid-viral-bacterial-pneumonia/data)
+Full code of this project at here [full code](https://github.com/WiseStar282/Pneumonia-classification/blob/main/Pneumonia%20Classification%20VGG%2BSVM-.ipynb)
 
-You also can see my article about this at here [medium.com]( )
+You also can see my article about this at here [medium.com](https://medium.com/@ahmadbintangarif/classification-of-pneumonia-diseases-using-a-combination-of-vgg-16-and-support-vector-machine-e14f8adf8d3e)
